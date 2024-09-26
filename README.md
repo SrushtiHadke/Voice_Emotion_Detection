@@ -2,6 +2,7 @@
 This is a project in ML which detects emotions from voice.
 Ravdess Dataset is used to train the model.
 
-![image](https://github.com/user-attachments/assets/b9205e7f-5624-4865-a8ad-3542638b5584)
+# About the project
+Voice emotion detection is a technology that analyzes vocal features such as pitch, tone, intensity, and speech patterns to identify the emotional state of a speaker. It is widely applied in areas like customer service, healthcare, and human-computer interaction, allowing systems to respond more empathetically and effectively to users' emotions. By using machine learning algorithms, voice emotion detection can recognize emotions like happiness, anger, sadness, and stress, enabling better communication and decision-making in real-time. This technology enhances user experience, improves mental health monitoring, and fosters more natural interactions between humans and AI systems.
 
 
